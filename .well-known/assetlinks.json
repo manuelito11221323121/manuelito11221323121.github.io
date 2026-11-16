@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "mx.klipo.app",
+    "sha256_cert_fingerprints": ["8D:06:1A:2C:AB:FA:DC:5F:2E:3F:03:3F:6C:D5:C9:E6:ED:2A:B3:92:DA:2B:6C:88:47:A6:D6:2F:9D:7D:E8:B9"]
+  }
+}]
